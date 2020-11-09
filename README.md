@@ -2,9 +2,11 @@
 
 # Quiz-App
 
-# user can choose the movies from different geners
+# User have to LogIn
 
-# Also User Can Watch regional language movies also
+# Follow the set of rules to play the game
+
+# Answer the question and win points accordingly
 
 # Screenshots
 
