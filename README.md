@@ -1,5 +1,4 @@
-
- # Completely built with Html5,Css3 & Javascript
+# Completely built with Html5,Css3 & Javascript
 
 # Quiz-App
 
@@ -9,8 +8,9 @@
 
 # Screenshots
 
-![Optional Text](./assests/1.png)
-![Optional Text](./assests/2.png)
+![Optional Text](./images/1.png)
+![Optional Text](./images/2.png)
+![Optional Text](./images/3.png)
 
 ## Deployed Site
 
