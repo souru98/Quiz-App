@@ -8,10 +8,8 @@
 
 # Screenshots
 
-![Optional Text](./images/1.png)
-![Optional Text](./images/2.png)
-![Optional Text](./images/3.png)
+![Optional Text](./Images/1.png)
+![Optional Text](./Images/2.png)
+![Optional Text](./Images/3.png)
 
 ## Deployed Site
-
-https://jovial-knuth-52283b.netlify.app
